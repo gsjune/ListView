@@ -13,6 +13,6 @@ public class AdapterViewExamActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_adapter_view_exam);
 
-        ListView listView = (ListView) findViewById(R.id.list_view);
+        ListView listView = (ListView) findViewById(R.id.list_view); // (1) ListView 가져오기
     }
 }
