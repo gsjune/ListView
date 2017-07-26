@@ -27,7 +27,7 @@ public class AdapterViewExamActivity extends AppCompatActivity {
 
         // Adapter
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(AdapterViewExamActivity.this,
-                android.R.layout.simple_list_item_1, data); // (3) ArrayAdapter 안쓰임
+                android.R.layout.simple_list_item_1, data); // (3) ArrayAdapter 잘 안쓰임
 
         listView.setAdapter(adapter); // (4)
     }
