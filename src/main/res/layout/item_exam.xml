@@ -19,12 +19,12 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Roger Federer" />
+            android:text="스마트" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="winner" />
+            android:text="031-236-5043" />
 
     </LinearLayout>
 
